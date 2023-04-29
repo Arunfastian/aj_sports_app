@@ -1,0 +1,36 @@
+{
+    "results": {
+      "fixture": {
+        "id": 2719023,
+        "series_id": 1430,
+        "match_title": "Mumbai Indians v Punjab Kings at Wankhede Stadium, Mumbai (night), T20.",
+        "venue": "Wankhede Stadium, Mumbai (night)",
+        "start_date": "2023-04-22T14:00:00+00:00",
+        "end_date": "2023-04-22T14:00:00+00:00",
+        "dates": [
+          {
+            "date": "2023-04-22T14:00:00+00:00",
+            "match_subtitle": "31st Match"
+          }
+        ],
+        "home": {
+          "id": 101754,
+          "name": "Mumbai Indians",
+          "code": "MIN"
+        },
+        "away": {
+          "id": 145221,
+          "name": "Punjab Kings",
+          "code": ""
+        },
+        "series": {
+          "series_id": 1430,
+          "series_name": "Indian Premier League",
+          "status": "Current series",
+          "season": "2023",
+          "updated_at": "2023-04-20T23:00:06.000000Z"
+        }
+      },
+      "live_details": null
+    }
+  }

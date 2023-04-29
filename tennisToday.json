@@ -1,0 +1,218 @@
+[
+    {
+        "tournament": {
+            "id": 1615,
+            "name": "Barcelona Open Banc Sabadell",
+            "city": "Barcelona",
+            "country": "Spain",
+            "surface": "Outdoor Clay",
+            "code": "ATP",
+            "start_date": "2023-04-17",
+            "end_date": "2023-04-23",
+            "season": 2023,
+            "country_code": "ESP"
+        },
+        "matches": [
+            {
+                "id": 33085,
+                "status": "notstarted",
+                "title": "Musetti L. - Tsitsipas S.",
+                "home_id": 1566102,
+                "home_player": "Musetti L.",
+                "away_id": 734208,
+                "away_player": "Tsitsipas S.",
+                "date": "2023-04-22T11:30:00+00:00",
+                "court": "Pista Rafa Nadal",
+                "round_id": 55,
+                "round_name": "Semifinal",
+                "home": {
+                    "first_name": "Lorenzo",
+                    "last_name": "Musetti",
+                    "full_name": "Lorenzo Musetti",
+                    "country": "Italy",
+                    "ranking": 20
+                },
+                "away": {
+                    "first_name": "Stefanos",
+                    "last_name": "Tsitsipas",
+                    "full_name": "Stefanos Tsitsipas",
+                    "country": "Greece",
+                    "ranking": 5
+                },
+                "result": null
+            },
+            {
+                "id": 33090,
+                "status": "notstarted",
+                "title": "Alcaraz C. - Evans D.",
+                "home_id": 1655550,
+                "home_player": "Alcaraz C.",
+                "away_id": 98262,
+                "away_player": "Evans D.",
+                "date": "2023-04-22T14:00:00+00:00",
+                "court": "Pista Rafa Nadal",
+                "round_id": 55,
+                "round_name": "Semifinal",
+                "home": {
+                    "first_name": "Carlos",
+                    "last_name": "Alcaraz",
+                    "full_name": "Carlos Alcaraz",
+                    "country": "Spain",
+                    "ranking": 2
+                },
+                "away": {
+                    "first_name": "Daniel",
+                    "last_name": "Evans",
+                    "full_name": "Daniel Evans",
+                    "country": "United Kingdom",
+                    "ranking": 26
+                },
+                "result": null
+            }
+        ]
+    },
+    {
+        "tournament": {
+            "id": 1617,
+            "name": "BMW Open by American Express",
+            "city": "Munich",
+            "country": "Germany",
+            "surface": "Outdoor Clay",
+            "code": "ATP",
+            "start_date": "2023-04-17",
+            "end_date": "2023-04-23",
+            "season": 2023,
+            "country_code": "DEU"
+        },
+        "matches": [
+            {
+                "id": 33087,
+                "status": "notstarted",
+                "title": "Rune H. - O'Connell C.",
+                "home_id": 1698432,
+                "home_player": "Rune H.",
+                "away_id": 349338,
+                "away_player": "O'Connell C.",
+                "date": "2023-04-22T11:30:00+00:00",
+                "court": "Center Court",
+                "round_id": 55,
+                "round_name": "Semifinal",
+                "home": {
+                    "first_name": "Holger",
+                    "last_name": "Rune",
+                    "full_name": "Holger Rune",
+                    "country": "Denmark",
+                    "ranking": 7
+                },
+                "away": {
+                    "first_name": "Christopher",
+                    "last_name": "Oconnell",
+                    "full_name": "Christopher Oconnell",
+                    "country": "Australia",
+                    "ranking": 82
+                },
+                "result": null
+            },
+            {
+                "id": 33088,
+                "status": "notstarted",
+                "title": "Van De Zandschulp B. - Fritz T.",
+                "home_id": 614046,
+                "home_player": "Van De Zandschulp B.",
+                "away_id": 816264,
+                "away_player": "Fritz T.",
+                "date": "2023-04-22T13:00:00+00:00",
+                "court": "Center Court",
+                "round_id": 55,
+                "round_name": "Semifinal",
+                "home": {
+                    "first_name": "De",
+                    "last_name": "Van",
+                    "full_name": "De Van",
+                    "country": "Netherlands",
+                    "ranking": 29
+                },
+                "away": {
+                    "first_name": "Taylor",
+                    "last_name": "Fritz",
+                    "full_name": "Taylor Fritz",
+                    "country": "USA",
+                    "ranking": 10
+                },
+                "result": null
+            }
+        ]
+    },
+    {
+        "tournament": {
+            "id": 1678,
+            "name": "Porsche Tennis Grand Prix",
+            "city": "Stuttgart",
+            "country": "Germany",
+            "surface": "Clay Indoor",
+            "code": "WTA",
+            "start_date": "2023-04-17",
+            "end_date": "2023-04-23",
+            "season": 2023,
+            "country_code": "DEU"
+        },
+        "matches": [
+            {
+                "id": 33089,
+                "status": "notstarted",
+                "title": "Potapova A. - Sabalenka A.",
+                "home_id": 1264998,
+                "home_player": "Potapova A.",
+                "away_id": 946536,
+                "away_player": "Sabalenka A.",
+                "date": "2023-04-22T12:00:00+00:00",
+                "court": "Center Court",
+                "round_id": 55,
+                "round_name": "Semifinal",
+                "home": {
+                    "first_name": "Anastasia",
+                    "last_name": "Potapova",
+                    "full_name": "Anastasia Potapova",
+                    "country": "Russia",
+                    "ranking": 24
+                },
+                "away": {
+                    "first_name": "Aryna",
+                    "last_name": "Sabalenka",
+                    "full_name": "Aryna Sabalenka",
+                    "country": "Belarus",
+                    "ranking": 2
+                },
+                "result": null
+            },
+            {
+                "id": 33091,
+                "status": "notstarted",
+                "title": "Swiatek I. - Jabeur O.",
+                "home_id": 1369644,
+                "home_player": "Swiatek I.",
+                "away_id": 332418,
+                "away_player": "Jabeur O.",
+                "date": "2023-04-22T14:00:00+00:00",
+                "court": "Center Court",
+                "round_id": 55,
+                "round_name": "Semifinal",
+                "home": {
+                    "first_name": "Iga",
+                    "last_name": "Swiatek",
+                    "full_name": "Iga Swiatek",
+                    "country": "Poland",
+                    "ranking": 1
+                },
+                "away": {
+                    "first_name": "Ons",
+                    "last_name": "Jabeur",
+                    "full_name": "Ons Jabeur",
+                    "country": "Tunisia",
+                    "ranking": 4
+                },
+                "result": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "id": 2737675,
+        "series_id": 1457,
+        "venue": "Terdthai Cricket Ground, Bangkok",
+        "date": "2023-04-21T02:00:00+00:00",
+        "status": "Fixture",
+        "result": "",
+        "match_title": "Thailand Women v Zimbabwe Women at Terdthai Cricket Ground, Bangkok, ODI.",
+        "match_subtitle": "2nd ODI",
+        "home": {
+            "id": 240,
+            "name": "Thailand Women",
+            "code": "THW"
+        },
+        "away": {
+            "id": 232068,
+            "name": "Zimbabwe Women",
+            "code": ""
+        }
+    },
+    {
+        "id": 2735983,
+        "series_id": 1456,
+        "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+        "date": "2023-04-21T03:00:00+00:00",
+        "status": "Fixture",
+        "result": "",
+        "match_title": "Nepal v Oman at Tribhuvan University International Cricket Ground, Kirtipur, T20I.",
+        "match_subtitle": "7th Match, Group A",
+        "home": {
+            "id": 264,
+            "name": "Nepal",
+            "code": "NEP"
+        },
+        "away": {
+            "id": 300,
+            "name": "Oman",
+            "code": "OMN"
+        }
+    },
+    {
+        "id": 2735985,
+        "series_id": 1456,
+        "venue": "Mulpani Cricket Ground",
+        "date": "2023-04-21T03:00:00+00:00",
+        "status": "Fixture",
+        "result": "",
+        "match_title": "Hong Kong v United Arab Emirates at Mulpani Cricket Ground, T20I.",
+        "match_subtitle": "8th Match, Group B",
+        "home": {
+            "id": 297,
+            "name": "Hong Kong",
+            "code": "HKG"
+        },
+        "away": {
+            "id": 348,
+            "name": "United Arab Emirates",
+            "code": "UAE"
+        }
+    },
+    {
+        "id": 2737693,
+        "series_id": 1459,
+        "venue": "Lugogo Cricket Oval, Kampala",
+        "date": "2023-04-21T06:30:00+00:00",
+        "status": "Fixture",
+        "result": "",
+        "match_title": "Uganda Women v Tanzania Women at Lugogo Cricket Oval, Kampala, T20.",
+        "match_subtitle": "7th Match",
+        "home": {
+            "id": 209511,
+            "name": "Uganda Women",
+            "code": ""
+        },
+        "away": {
+            "id": 213573,
+            "name": "Tanzania Women",
+            "code": ""
+        }
+    },
+    {
+        "id": 2737695,
+        "series_id": 1459,
+        "venue": "Lugogo Cricket Oval, Kampala",
+        "date": "2023-04-21T09:30:00+00:00",
+        "status": "Fixture",
+        "result": "",
+        "match_title": "Rwanda Women v United Arab Emirates Women at Lugogo Cricket Oval, Kampala, T20.",
+        "match_subtitle": "8th Match",
+        "home": {
+            "id": 232050,
+            "name": "Rwanda Women",
+            "code": ""
+        },
+        "away": {
+            "id": 228,
+            "name": "United Arab Emirates Women",
+            "code": "UAW"
+        }
+    },
+    {
+        "id": 2719019,
+        "series_id": 1430,
+        "venue": "MA Chidambaram Stadium, Chepauk, Chennai (night)",
+        "date": "2023-04-21T14:00:00+00:00",
+        "status": "Fixture",
+        "result": "",
+        "match_title": "Chennai Super Kings v Sunrisers Hyderabad at MA Chidambaram Stadium, Chepauk, Chennai (night), T20.",
+        "match_subtitle": "29th Match",
+        "home": {
+            "id": 101742,
+            "name": "Chennai Super Kings",
+            "code": "CSK"
+        },
+        "away": {
+            "id": 101763,
+            "name": "Sunrisers Hyderabad",
+            "code": "SUH"
+        }
+    },
+    {
+        "id": 2735987,
+        "series_id": 1456,
+        "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+        "date": "2023-04-22T03:15:00+00:00",
+        "status": "Fixture",
+        "result": "",
+        "match_title": "Qatar v Saudi Arabia at Tribhuvan University International Cricket Ground, Kirtipur, T20I.",
+        "match_subtitle": "9th Match, Group A",
+        "home": {
+            "id": 243,
+            "name": "Qatar",
+            "code": "QTR"
+        },
+        "away": {
+            "id": 255,
+            "name": "Saudi Arabia",
+            "code": "SAR"
+        }
+    },
+    {
+        "id": 2735989,
+        "series_id": 1456,
+        "venue": "Mulpani Cricket Ground",
+        "date": "2023-04-22T03:15:00+00:00",
+        "status": "Fixture",
+        "result": "",
+        "match_title": "Bahrain v Kuwait at Mulpani Cricket Ground, T20I.",
+        "match_subtitle": "10th Match, Group B",
+        "home": {
+            "id": 252,
+            "name": "Bahrain",
+            "code": "BHR"
+        },
+        "away": {
+            "id": 249,
+            "name": "Kuwait",
+            "code": "KWT"
+        }
+    },
+    {
+        "id": 2737697,
+        "series_id": 1459,
+        "venue": "Lugogo Cricket Oval, Kampala",
+        "date": "2023-04-22T06:30:00+00:00",
+        "status": "Fixture",
+        "result": "",
+        "match_title": "Uganda Women v Kenya Women at Lugogo Cricket Oval, Kampala, T20.",
+        "match_subtitle": "9th Match",
+        "home": {
+            "id": 209511,
+            "name": "Uganda Women",
+            "code": ""
+        },
+        "away": {
+            "id": 209508,
+            "name": "Kenya Women",
+            "code": ""
+        }
+    },
+    {
+        "id": 2737699,
+        "series_id": 1459,
+        "venue": "Lugogo Cricket Oval, Kampala",
+        "date": "2023-04-22T09:30:00+00:00",
+        "status": "Fixture",
+        "result": "",
+        "match_title": "Rwanda Women v Tanzania Women at Lugogo Cricket Oval, Kampala, T20.",
+        "match_subtitle": "10th Match",
+        "home": {
+            "id": 232050,
+            "name": "Rwanda Women",
+            "code": ""
+        },
+        "away": {
+            "id": 213573,
+            "name": "Tanzania Women",
+            "code": ""
+        }
+    },
+    {
+        "id": 2719021,
+        "series_id": 1430,
+        "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow (day/night)",
+        "date": "2023-04-22T10:00:00+00:00",
+        "status": "Fixture",
+        "result": "",
+        "match_title": "Lucknow Super Giants v Gujarat Titans at Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow (day/night), T20.",
+        "match_subtitle": "30th Match",
+        "home": {
+            "id": 161271,
+            "name": "Lucknow Super Giants",
+            "code": ""
+        },
+        "away": {
+            "id": 161268,
+            "name": "Gujarat Titans",
+            "code": ""
+        }
+    },
+    {
+        "id": 2719023,
+        "series_id": 1430,
+        "venue": "Wankhede Stadium, Mumbai (night)",
+        "date": "2023-04-22T14:00:00+00:00",
+        "status": "Fixture",
+        "result": "",
+        "match_title": "Mumbai Indians v Punjab Kings at Wankhede Stadium, Mumbai (night), T20.",
+        "match_subtitle": "31st Match",
+        "home": {
+            "id": 101754,
+            "name": "Mumbai Indians",
+            "code": "MIN"
+        },
+        "away": {
+            "id": 145221,
+            "name": "Punjab Kings",
+            "code": ""
+        }
+    }
+]

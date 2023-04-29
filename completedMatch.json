@@ -1,0 +1,840 @@
+{
+  "fixture": {
+    "id": 2719015,
+    "series_id": 1430,
+    "match_title": "Punjab Kings v Royal Challengers Bangalore at Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh (day/night), T20.",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh (day/night)",
+    "start_date": "2023-04-20T10:00:00+00:00",
+    "end_date": "2023-04-20T10:00:00+00:00",
+    "dates": [
+      {
+        "date": "2023-04-20T10:00:00+00:00",
+        "match_subtitle": "27th Match"
+      }
+    ],
+    "home": {
+      "id": 145221,
+      "name": "Punjab Kings",
+      "code": ""
+    },
+    "away": {
+      "id": 101760,
+      "name": "Royal Challengers Bangalore",
+      "code": "RCB"
+    },
+    "series": {
+      "series_id": 1430,
+      "series_name": "Indian Premier League",
+      "status": "Current series",
+      "season": "2023",
+      "updated_at": "2023-04-21T23:00:07.000000Z"
+    }
+  },
+  "live_details": {
+    "match_summary": {
+      "in_play": "No",
+      "result": "Yes",
+      "status": "RCB won by 24 runs",
+      "toss": "Punjab Kings, elected to field first",
+      "home_scores": "150/10 (18.2/20 ov, target 175)",
+      "away_scores": "174/4"
+    },
+    "officials": {
+      "umpire_1": "Anil Chaudhary",
+      "umpire_2": "Sadashiv Iyer",
+      "umpire_tv": "Chris Gaffaney",
+      "referee": "Prakash Bhatt",
+      "umpire_reserve": "Madanagopal Kuppuraj"
+    },
+    "scorecard": [
+      {
+        "innings_number": 1,
+        "current": false,
+        "title": "Royal Challengers Bangalore Innings",
+        "overs": "20",
+        "runs": 174,
+        "wickets": "4",
+        "extras": 12,
+        "extras_detail": "lb 8, nb 1, w 3",
+        "fow": "1-137 (Virat Kohli, 16.1 ov), 2-137 (Glenn Maxwell, 16.2 ov), 3-151 (Faf du Plessis, 17.3 ov), 4-163 (Dinesh Karthik, 18.6 ov)",
+        "batting": [
+          {
+            "bat_order": 1,
+            "player_id": 761418,
+            "player_name": "Virat Kohli",
+            "how_out": "c Sharma b Harpreet Brar",
+            "minutes": "72",
+            "runs": 59,
+            "balls": 47,
+            "fours": 5,
+            "sixes": 1,
+            "strike_rate": "125.53"
+          },
+          {
+            "bat_order": 2,
+            "player_id": 134496,
+            "player_name": "Faf du Plessis",
+            "how_out": "c Curran b Ellis",
+            "minutes": "78",
+            "runs": 84,
+            "balls": 56,
+            "fours": 5,
+            "sixes": 5,
+            "strike_rate": "150.00"
+          },
+          {
+            "bat_order": 3,
+            "player_id": 975090,
+            "player_name": "Glenn Maxwell",
+            "how_out": "c Taide b Harpreet Brar",
+            "minutes": "1",
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "strike_rate": "0.00"
+          },
+          {
+            "bat_order": 4,
+            "player_id": 90147,
+            "player_name": "Dinesh Karthik",
+            "how_out": "c Taide b Arshdeep Singh",
+            "minutes": "16",
+            "runs": 7,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "strike_rate": "140.00"
+          },
+          {
+            "bat_order": 5,
+            "player_id": 2559807,
+            "player_name": "Mahipal Lomror",
+            "how_out": "not out",
+            "minutes": "15",
+            "runs": 7,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 0,
+            "strike_rate": "77.77"
+          },
+          {
+            "bat_order": 6,
+            "player_id": 3479145,
+            "player_name": "Shahbaz Ahmed",
+            "how_out": "not out",
+            "minutes": "5",
+            "runs": 5,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "strike_rate": "166.66"
+          }
+        ],
+        "still_to_bat": [
+          {
+            "player_id": 3251565,
+            "player_name": "Suyash Prabhudessai"
+          },
+          {
+            "player_id": 2353149,
+            "player_name": "Wanindu Hasaranga de Silva"
+          },
+          {
+            "player_id": 1171455,
+            "player_name": "Harshal Patel"
+          },
+          {
+            "player_id": 796704,
+            "player_name": "Wayne Parnell"
+          },
+          {
+            "player_id": 2822931,
+            "player_name": "Mohammed Siraj"
+          },
+          {
+            "player_id": 2333457,
+            "player_name": "Vijaykumar Vyshak"
+          }
+        ],
+        "bowling": [
+          {
+            "player_id": 3377940,
+            "player_name": "Arshdeep Singh",
+            "overs": "4",
+            "maidens": 0,
+            "runs_conceded": 34,
+            "wickets": 1,
+            "economy": "8.50",
+            "dot_balls": 8,
+            "fours": 5,
+            "sixes": 0,
+            "extras": "1"
+          },
+          {
+            "player_id": 3505935,
+            "player_name": "Harpreet Brar",
+            "overs": "3",
+            "maidens": 0,
+            "runs_conceded": 31,
+            "wickets": 2,
+            "economy": "10.33",
+            "dot_balls": 7,
+            "fours": 1,
+            "sixes": 3,
+            "extras": "0"
+          },
+          {
+            "player_id": 2480757,
+            "player_name": "Nathan Ellis",
+            "overs": "4",
+            "maidens": 0,
+            "runs_conceded": 41,
+            "wickets": 1,
+            "economy": "10.25",
+            "dot_balls": 8,
+            "fours": 2,
+            "sixes": 3,
+            "extras": "1"
+          },
+          {
+            "player_id": 1988931,
+            "player_name": "Sam Curran",
+            "overs": "4",
+            "maidens": 0,
+            "runs_conceded": 27,
+            "wickets": 0,
+            "economy": "6.75",
+            "dot_balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "extras": "1"
+          },
+          {
+            "player_id": 3194448,
+            "player_name": "Rahul Chahar",
+            "overs": "4",
+            "maidens": 0,
+            "runs_conceded": 24,
+            "wickets": 0,
+            "economy": "6.00",
+            "dot_balls": 7,
+            "fours": 2,
+            "sixes": 0,
+            "extras": "0"
+          },
+          {
+            "player_id": 1211718,
+            "player_name": "Liam Livingstone",
+            "overs": "1",
+            "maidens": 0,
+            "runs_conceded": 9,
+            "wickets": 0,
+            "economy": "9.00",
+            "dot_balls": 0,
+            "fours": 1,
+            "sixes": 0,
+            "extras": "0"
+          }
+        ]
+      },
+      {
+        "innings_number": 2,
+        "current": true,
+        "title": "Punjab Kings Innings",
+        "overs": "18.2",
+        "runs": 150,
+        "wickets": "10",
+        "extras": 5,
+        "extras_detail": "b 1, lb 1, nb 1, w 2",
+        "fow": "1-4 (Atharva Taide, 0.2 ov), 2-20 (Matthew Short, 2.1 ov), 3-27 (Liam Livingstone, 3.2 ov), 4-43 (Harpreet Singh, 5.3 ov), 5-76 (Sam Curran, 9.5 ov), 6-97 (Prabhsimran Singh, 11.3 ov), 7-106 (M Shahrukh Khan, 12.5 ov), 8-147 (Harpreet Brar, 17.3 ov), 9-149 (Nathan Ellis, 17.6 ov), 10-150 (Jitesh Sharma, 18.2 ov)",
+        "batting": [
+          {
+            "bat_order": 1,
+            "player_id": 3377886,
+            "player_name": "Atharva Taide",
+            "how_out": "lbw b Mohammed Siraj",
+            "minutes": "-",
+            "runs": 4,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "strike_rate": "200.00"
+          },
+          {
+            "bat_order": 2,
+            "player_id": 3483084,
+            "player_name": "Prabhsimran Singh",
+            "how_out": " b Parnell",
+            "minutes": "-",
+            "runs": 46,
+            "balls": 30,
+            "fours": 3,
+            "sixes": 4,
+            "strike_rate": "153.33"
+          },
+          {
+            "bat_order": 3,
+            "player_id": 1816737,
+            "player_name": "Matthew Short",
+            "how_out": " b de Silva",
+            "minutes": "-",
+            "runs": 8,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "strike_rate": "114.28"
+          },
+          {
+            "bat_order": 4,
+            "player_id": 1211718,
+            "player_name": "Liam Livingstone",
+            "how_out": "lbw b Mohammed Siraj",
+            "minutes": "-",
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "strike_rate": "50.00"
+          },
+          {
+            "bat_order": 5,
+            "player_id": 1022574,
+            "player_name": "Harpreet Singh",
+            "how_out": "run out (Mohammed Siraj)",
+            "minutes": "-",
+            "runs": 13,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 1,
+            "strike_rate": "144.44"
+          },
+          {
+            "bat_order": 6,
+            "player_id": 1988931,
+            "player_name": "Sam Curran",
+            "how_out": "run out (de Silva)",
+            "minutes": "-",
+            "runs": 10,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 0,
+            "strike_rate": "83.33"
+          },
+          {
+            "bat_order": 7,
+            "player_id": 2165613,
+            "player_name": "Jitesh Sharma",
+            "how_out": "c Shahbaz Ahmed b Patel",
+            "minutes": "-",
+            "runs": 41,
+            "balls": 27,
+            "fours": 2,
+            "sixes": 3,
+            "strike_rate": "151.85"
+          },
+          {
+            "bat_order": 8,
+            "player_id": 2159169,
+            "player_name": "M Shahrukh Khan",
+            "how_out": "st Karthik b de Silva",
+            "minutes": "-",
+            "runs": 7,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 1,
+            "strike_rate": "140.00"
+          },
+          {
+            "bat_order": 9,
+            "player_id": 3505935,
+            "player_name": "Harpreet Brar",
+            "how_out": " b Mohammed Siraj",
+            "minutes": "-",
+            "runs": 13,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "strike_rate": "100.00"
+          },
+          {
+            "bat_order": 10,
+            "player_id": 2480757,
+            "player_name": "Nathan Ellis",
+            "how_out": " b Mohammed Siraj",
+            "minutes": "-",
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "strike_rate": "50.00"
+          },
+          {
+            "bat_order": 11,
+            "player_id": 3377940,
+            "player_name": "Arshdeep Singh",
+            "how_out": "not out",
+            "minutes": "-",
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "strike_rate": "-"
+          }
+        ],
+        "still_to_bat": [
+          {
+            "player_id": 3194448,
+            "player_name": "Rahul Chahar"
+          }
+        ],
+        "bowling": [
+          {
+            "player_id": 2822931,
+            "player_name": "Mohammed Siraj",
+            "overs": "4",
+            "maidens": 0,
+            "runs_conceded": 21,
+            "wickets": 4,
+            "economy": "5.25",
+            "dot_balls": 13,
+            "fours": 3,
+            "sixes": 0,
+            "extras": "0"
+          },
+          {
+            "player_id": 796704,
+            "player_name": "Wayne Parnell",
+            "overs": "3",
+            "maidens": 0,
+            "runs_conceded": 32,
+            "wickets": 1,
+            "economy": "10.66",
+            "dot_balls": 9,
+            "fours": 1,
+            "sixes": 4,
+            "extras": "0"
+          },
+          {
+            "player_id": 2353149,
+            "player_name": "Wanindu Hasaranga de Silva",
+            "overs": "4",
+            "maidens": 0,
+            "runs_conceded": 39,
+            "wickets": 2,
+            "economy": "9.75",
+            "dot_balls": 7,
+            "fours": 2,
+            "sixes": 3,
+            "extras": "0"
+          },
+          {
+            "player_id": 2333457,
+            "player_name": "Vijaykumar Vyshak",
+            "overs": "3",
+            "maidens": 0,
+            "runs_conceded": 29,
+            "wickets": 0,
+            "economy": "9.66",
+            "dot_balls": 6,
+            "fours": 2,
+            "sixes": 2,
+            "extras": "1"
+          },
+          {
+            "player_id": 975090,
+            "player_name": "Glenn Maxwell",
+            "overs": "1",
+            "maidens": 0,
+            "runs_conceded": 5,
+            "wickets": 0,
+            "economy": "5.00",
+            "dot_balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "extras": "0"
+          },
+          {
+            "player_id": 1171455,
+            "player_name": "Harshal Patel",
+            "overs": "3.2",
+            "maidens": 0,
+            "runs_conceded": 22,
+            "wickets": 1,
+            "economy": "6.60",
+            "dot_balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "extras": "2"
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "current_run_rate": "",
+      "min_remaining_overs": "",
+      "partnership_player_1": "Jitesh Sharma",
+      "partnership_player_1_runs": 0,
+      "partnership_player_1_balls": 2,
+      "partnership_player_2": "Arshdeep Singh",
+      "partnership_player_2_runs": 0,
+      "partnership_player_2_balls": 0,
+      "partnership_run_rate": "3",
+      "partnership_overs": "0.2",
+      "partnership_runs": 1,
+      "last_18_balls": [
+        {
+          "isDismissal": true,
+          "isBoundary": false,
+          "isWide": false,
+          "isMaiden": false,
+          "isNoBall": false,
+          "isBye": false,
+          "isOverEnd": false,
+          "currentOver": 18,
+          "runs": 0,
+          "isLegBye": false,
+          "currentOverBall": 2
+        },
+        {
+          "isDismissal": false,
+          "isBoundary": false,
+          "isWide": false,
+          "isMaiden": false,
+          "isNoBall": false,
+          "isBye": false,
+          "isOverEnd": false,
+          "currentOver": 18,
+          "runs": 0,
+          "isLegBye": false,
+          "currentOverBall": 1
+        },
+        {
+          "isDismissal": false,
+          "isBoundary": false,
+          "isWide": true,
+          "isMaiden": false,
+          "isNoBall": false,
+          "isBye": false,
+          "isOverEnd": false,
+          "currentOver": 18,
+          "runs": 1,
+          "isLegBye": false,
+          "currentOverBall": 1
+        },
+        {
+          "isDismissal": true,
+          "isBoundary": false,
+          "isWide": false,
+          "isMaiden": false,
+          "isNoBall": false,
+          "isBye": false,
+          "isOverEnd": true,
+          "currentOver": 17,
+          "runs": 0,
+          "isLegBye": false,
+          "currentOverBall": 6
+        },
+        {
+          "isDismissal": false,
+          "isBoundary": false,
+          "isWide": false,
+          "isMaiden": false,
+          "isNoBall": false,
+          "isBye": false,
+          "isOverEnd": false,
+          "currentOver": 17,
+          "runs": 1,
+          "isLegBye": false,
+          "currentOverBall": 5
+        },
+        {
+          "isDismissal": false,
+          "isBoundary": false,
+          "isWide": false,
+          "isMaiden": false,
+          "isNoBall": false,
+          "isBye": false,
+          "isOverEnd": false,
+          "currentOver": 17,
+          "runs": 1,
+          "isLegBye": false,
+          "currentOverBall": 4
+        },
+        {
+          "isDismissal": true,
+          "isBoundary": false,
+          "isWide": false,
+          "isMaiden": false,
+          "isNoBall": false,
+          "isBye": false,
+          "isOverEnd": false,
+          "currentOver": 17,
+          "runs": 0,
+          "isLegBye": false,
+          "currentOverBall": 3
+        },
+        {
+          "isDismissal": false,
+          "isBoundary": false,
+          "isWide": false,
+          "isMaiden": false,
+          "isNoBall": false,
+          "isBye": true,
+          "isOverEnd": false,
+          "currentOver": 17,
+          "runs": 1,
+          "isLegBye": false,
+          "currentOverBall": 2
+        },
+        {
+          "isDismissal": false,
+          "isBoundary": false,
+          "isWide": false,
+          "isMaiden": false,
+          "isNoBall": false,
+          "isBye": false,
+          "isOverEnd": false,
+          "currentOver": 17,
+          "runs": 1,
+          "isLegBye": false,
+          "currentOverBall": 1
+        },
+        {
+          "isDismissal": false,
+          "isBoundary": false,
+          "isWide": false,
+          "isMaiden": false,
+          "isNoBall": false,
+          "isBye": false,
+          "isOverEnd": true,
+          "currentOver": 16,
+          "runs": 2,
+          "isLegBye": false,
+          "currentOverBall": 6
+        },
+        {
+          "isDismissal": false,
+          "isBoundary": false,
+          "isWide": false,
+          "isMaiden": false,
+          "isNoBall": false,
+          "isBye": false,
+          "isOverEnd": false,
+          "currentOver": 16,
+          "runs": 1,
+          "isLegBye": false,
+          "currentOverBall": 5
+        },
+        {
+          "isDismissal": false,
+          "isBoundary": false,
+          "isWide": false,
+          "isMaiden": false,
+          "isNoBall": false,
+          "isBye": false,
+          "isOverEnd": false,
+          "currentOver": 16,
+          "runs": 1,
+          "isLegBye": false,
+          "currentOverBall": 4
+        },
+        {
+          "isDismissal": false,
+          "isBoundary": false,
+          "isWide": false,
+          "isMaiden": false,
+          "isNoBall": false,
+          "isBye": false,
+          "isOverEnd": false,
+          "currentOver": 16,
+          "runs": 1,
+          "isLegBye": false,
+          "currentOverBall": 3
+        },
+        {
+          "isDismissal": false,
+          "isBoundary": false,
+          "isWide": false,
+          "isMaiden": false,
+          "isNoBall": false,
+          "isBye": false,
+          "isOverEnd": false,
+          "currentOver": 16,
+          "runs": 1,
+          "isLegBye": false,
+          "currentOverBall": 2
+        },
+        {
+          "isDismissal": false,
+          "isBoundary": false,
+          "isWide": false,
+          "isMaiden": false,
+          "isNoBall": false,
+          "isBye": false,
+          "isOverEnd": false,
+          "currentOver": 16,
+          "runs": 1,
+          "isLegBye": false,
+          "currentOverBall": 1
+        },
+        {
+          "isDismissal": false,
+          "isBoundary": false,
+          "isWide": false,
+          "isMaiden": false,
+          "isNoBall": false,
+          "isBye": false,
+          "isOverEnd": true,
+          "currentOver": 15,
+          "runs": 1,
+          "isLegBye": false,
+          "currentOverBall": 6
+        },
+        {
+          "isDismissal": false,
+          "isBoundary": false,
+          "isWide": false,
+          "isMaiden": false,
+          "isNoBall": false,
+          "isBye": false,
+          "isOverEnd": false,
+          "currentOver": 15,
+          "runs": 1,
+          "isLegBye": false,
+          "currentOverBall": 5
+        },
+        {
+          "isDismissal": false,
+          "isBoundary": false,
+          "isWide": false,
+          "isMaiden": false,
+          "isNoBall": false,
+          "isBye": false,
+          "isOverEnd": false,
+          "currentOver": 15,
+          "runs": 0,
+          "isLegBye": false,
+          "currentOverBall": 4
+        }
+      ],
+      "last_update": "2023-04-20T13:33:43+00:00"
+    },
+    "teamsheets": {
+      "home": [
+        {
+          "player_id": 3377886,
+          "player_name": "Atharva Taide",
+          "position": "Allrounder"
+        },
+        {
+          "player_id": 1816737,
+          "player_name": "Matthew Short",
+          "position": "Unknown"
+        },
+        {
+          "player_id": 1022574,
+          "player_name": "Harpreet Singh",
+          "position": "Unknown"
+        },
+        {
+          "player_id": 1211718,
+          "player_name": "Liam Livingstone",
+          "position": "Allrounder"
+        },
+        {
+          "player_id": 1988931,
+          "player_name": "Sam Curran",
+          "position": "Allrounder"
+        },
+        {
+          "player_id": 2165613,
+          "player_name": "Jitesh Sharma",
+          "position": "Wicketkeeper"
+        },
+        {
+          "player_id": 2159169,
+          "player_name": "M Shahrukh Khan",
+          "position": "Unknown"
+        },
+        {
+          "player_id": 3505935,
+          "player_name": "Harpreet Brar",
+          "position": "Bowler"
+        },
+        {
+          "player_id": 2480757,
+          "player_name": "Nathan Ellis",
+          "position": "Bowler"
+        },
+        {
+          "player_id": 3194448,
+          "player_name": "Rahul Chahar",
+          "position": "Bowler"
+        },
+        {
+          "player_id": 3377940,
+          "player_name": "Arshdeep Singh",
+          "position": "Bowler"
+        }
+      ],
+      "away": [
+        {
+          "player_id": 761418,
+          "player_name": "Virat Kohli",
+          "position": "Unknown"
+        },
+        {
+          "player_id": 134496,
+          "player_name": "Faf du Plessis",
+          "position": "Unknown"
+        },
+        {
+          "player_id": 2559807,
+          "player_name": "Mahipal Lomror",
+          "position": "Allrounder"
+        },
+        {
+          "player_id": 975090,
+          "player_name": "Glenn Maxwell",
+          "position": "Allrounder"
+        },
+        {
+          "player_id": 3479145,
+          "player_name": "Shahbaz Ahmed",
+          "position": "Allrounder"
+        },
+        {
+          "player_id": 90147,
+          "player_name": "Dinesh Karthik",
+          "position": "Wicketkeeper"
+        },
+        {
+          "player_id": 3251565,
+          "player_name": "Suyash Prabhudessai",
+          "position": "Allrounder"
+        },
+        {
+          "player_id": 2353149,
+          "player_name": "Wanindu Hasaranga de Silva",
+          "position": "Allrounder"
+        },
+        {
+          "player_id": 1171455,
+          "player_name": "Harshal Patel",
+          "position": "Bowler"
+        },
+        {
+          "player_id": 796704,
+          "player_name": "Wayne Parnell",
+          "position": "Bowler"
+        },
+        {
+          "player_id": 2822931,
+          "player_name": "Mohammed Siraj",
+          "position": "Bowler"
+        }
+      ]
+    }
+  }
+}

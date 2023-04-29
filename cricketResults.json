@@ -1,0 +1,302 @@
+[
+      {
+        "id": 2679247,
+        "series_id": 1259,
+        "venue": "Rawalpindi Cricket Stadium (night)",
+        "date": "2023-04-20T16:00:00+00:00",
+        "status": "Complete",
+        "result": "No result",
+        "match_title": "Pakistan v New Zealand at Rawalpindi Cricket Stadium (night), T20I.",
+        "match_subtitle": "4th T20I",
+        "home": {
+          "id": 288,
+          "name": "Pakistan",
+          "code": "PAK"
+        },
+        "away": {
+          "id": 282,
+          "name": "New Zealand",
+          "code": "NZL"
+        }
+      },
+      {
+        "id": 2719017,
+        "series_id": 1430,
+        "venue": "Arun Jaitley Stadium, Delhi (night)",
+        "date": "2023-04-20T14:00:00+00:00",
+        "status": "Complete",
+        "result": "Capitals won by 4 wkts (4b rem)",
+        "match_title": "Delhi Capitals v Kolkata Knight Riders at Arun Jaitley Stadium, Delhi (night), T20.",
+        "match_subtitle": "28th Match",
+        "home": {
+          "id": 120252,
+          "name": "Delhi Capitals",
+          "code": ""
+        },
+        "away": {
+          "id": 101751,
+          "name": "Kolkata Knight Riders",
+          "code": "KKR"
+        }
+      },
+      {
+        "id": 2719015,
+        "series_id": 1430,
+        "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh (day/night)",
+        "date": "2023-04-20T10:00:00+00:00",
+        "status": "Complete",
+        "result": "RCB won by 24 runs",
+        "match_title": "Punjab Kings v Royal Challengers Bangalore at Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh (day/night), T20.",
+        "match_subtitle": "27th Match",
+        "home": {
+          "id": 145221,
+          "name": "Punjab Kings",
+          "code": ""
+        },
+        "away": {
+          "id": 101760,
+          "name": "Royal Challengers Bangalore",
+          "code": "RCB"
+        }
+      },
+      {
+        "id": 2694451,
+        "series_id": 1261,
+        "venue": "St Lawrence Ground, Canterbury",
+        "date": "2023-04-20T10:00:00+00:00",
+        "status": "Complete",
+        "result": "Essex won toss & batted",
+        "match_title": "Kent v Essex at St Lawrence Ground, Canterbury, First Class.",
+        "match_subtitle": "",
+        "home": {
+          "id": 120786,
+          "name": "Kent",
+          "code": ""
+        },
+        "away": {
+          "id": 120804,
+          "name": "Essex",
+          "code": ""
+        }
+      },
+      {
+        "id": 2694445,
+        "series_id": 1261,
+        "venue": "Lord's, London",
+        "date": "2023-04-20T10:00:00+00:00",
+        "status": "Complete",
+        "result": "Middlesex won toss & fielded",
+        "match_title": "Middlesex v Nottinghamshire at Lord's, London, First Class.",
+        "match_subtitle": "",
+        "home": {
+          "id": 120792,
+          "name": "Middlesex",
+          "code": ""
+        },
+        "away": {
+          "id": 120756,
+          "name": "Nottinghamshire",
+          "code": ""
+        }
+      },
+      {
+        "id": 2694447,
+        "series_id": 1261,
+        "venue": "The Cooper Associates County Ground, Taunton",
+        "date": "2023-04-20T10:00:00+00:00",
+        "status": "Complete",
+        "result": "Lancashire won toss & fielded",
+        "match_title": "Somerset v Lancashire at The Cooper Associates County Ground, Taunton, First Class.",
+        "match_subtitle": "",
+        "home": {
+          "id": 120762,
+          "name": "Somerset",
+          "code": ""
+        },
+        "away": {
+          "id": 120759,
+          "name": "Lancashire",
+          "code": ""
+        }
+      },
+      {
+        "id": 2694449,
+        "series_id": 1261,
+        "venue": "County Ground, Northampton",
+        "date": "2023-04-20T10:00:00+00:00",
+        "status": "Complete",
+        "result": "Northants won toss & fielded",
+        "match_title": "Northamptonshire v Hampshire at County Ground, Northampton, First Class.",
+        "match_subtitle": "",
+        "home": {
+          "id": 120798,
+          "name": "Northamptonshire",
+          "code": ""
+        },
+        "away": {
+          "id": 120795,
+          "name": "Hampshire",
+          "code": ""
+        }
+      },
+      {
+        "id": 2694327,
+        "series_id": 1262,
+        "venue": "County Ground, New Road, Worcester",
+        "date": "2023-04-20T10:00:00+00:00",
+        "status": "Complete",
+        "result": "WORCS trail by 113 runs",
+        "match_title": "Worcestershire v Gloucestershire at County Ground, New Road, Worcester, First Class.",
+        "match_subtitle": "",
+        "home": {
+          "id": 120765,
+          "name": "Worcestershire",
+          "code": ""
+        },
+        "away": {
+          "id": 120801,
+          "name": "Gloucestershire",
+          "code": ""
+        }
+      },
+      {
+        "id": 2694329,
+        "series_id": 1262,
+        "venue": "Sophia Gardens, Cardiff",
+        "date": "2023-04-20T10:00:00+00:00",
+        "status": "Complete",
+        "result": "Glamorgan won toss & fielded",
+        "match_title": "Glamorgan v Durham at Sophia Gardens, Cardiff, First Class.",
+        "match_subtitle": "",
+        "home": {
+          "id": 120783,
+          "name": "Glamorgan",
+          "code": ""
+        },
+        "away": {
+          "id": 120768,
+          "name": "Durham",
+          "code": ""
+        }
+      },
+      {
+        "id": 2694331,
+        "series_id": 1262,
+        "venue": "County Ground, Hove",
+        "date": "2023-04-20T10:00:00+00:00",
+        "status": "Complete",
+        "result": "Sussex won toss & batted",
+        "match_title": "Sussex v Yorkshire at County Ground, Hove, First Class.",
+        "match_subtitle": "",
+        "home": {
+          "id": 120789,
+          "name": "Sussex",
+          "code": ""
+        },
+        "away": {
+          "id": 120777,
+          "name": "Yorkshire",
+          "code": ""
+        }
+      },
+      {
+        "id": 2737691,
+        "series_id": 1459,
+        "venue": "Lugogo Cricket Oval, Kampala",
+        "date": "2023-04-20T09:30:00+00:00",
+        "status": "Complete",
+        "result": "Uganda Women won by 6 wkts (18b rem)",
+        "match_title": "Uganda Women v United Arab Emirates Women at Lugogo Cricket Oval, Kampala, T20.",
+        "match_subtitle": "6th Match",
+        "home": {
+          "id": 209511,
+          "name": "Uganda Women",
+          "code": ""
+        },
+        "away": {
+          "id": 228,
+          "name": "United Arab Emirates Women",
+          "code": "UAW"
+        }
+      },
+      {
+        "id": 2737689,
+        "series_id": 1459,
+        "venue": "Lugogo Cricket Oval, Kampala",
+        "date": "2023-04-20T06:30:00+00:00",
+        "status": "Complete",
+        "result": "Tanzania Wmn won by 101 runs",
+        "match_title": "Kenya Women v Tanzania Women at Lugogo Cricket Oval, Kampala, T20.",
+        "match_subtitle": "5th Match",
+        "home": {
+          "id": 209508,
+          "name": "Kenya Women",
+          "code": ""
+        },
+        "away": {
+          "id": 213573,
+          "name": "Tanzania Women",
+          "code": ""
+        }
+      },
+      {
+        "id": 2726907,
+        "series_id": 1443,
+        "venue": "Galle International Stadium",
+        "date": "2023-04-20T04:30:00+00:00",
+        "status": "Complete",
+        "result": "Sri Lanka won by an inns and 280 runs",
+        "match_title": "Sri Lanka v Ireland at Galle International Stadium, Test.",
+        "match_subtitle": "1st Test - Day 5",
+        "home": {
+          "id": 291,
+          "name": "Sri Lanka",
+          "code": "SRL"
+        },
+        "away": {
+          "id": 354,
+          "name": "Ireland",
+          "code": "IRE"
+        }
+      },
+      {
+        "id": 2735979,
+        "series_id": 1456,
+        "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+        "date": "2023-04-20T03:15:00+00:00",
+        "status": "Complete",
+        "result": "Bahrain won by 132 runs",
+        "match_title": "Bahrain v Singapore at Tribhuvan University International Cricket Ground, Kirtipur, T20I.",
+        "match_subtitle": "5th Match, Group B",
+        "home": {
+          "id": 252,
+          "name": "Bahrain",
+          "code": "BHR"
+        },
+        "away": {
+          "id": 120111,
+          "name": "Singapore",
+          "code": ""
+        }
+      },
+      {
+        "id": 2735981,
+        "series_id": 1456,
+        "venue": "Mulpani Cricket Ground",
+        "date": "2023-04-20T03:15:00+00:00",
+        "status": "Complete",
+        "result": "Malaysia won by 8 wkts (172b rem)",
+        "match_title": "Malaysia v Saudi Arabia at Mulpani Cricket Ground, T20I.",
+        "match_subtitle": "6th Match, Group A",
+        "home": {
+          "id": 120093,
+          "name": "Malaysia",
+          "code": ""
+        },
+        "away": {
+          "id": 255,
+          "name": "Saudi Arabia",
+          "code": "SAR"
+        }
+      }
+    ]
