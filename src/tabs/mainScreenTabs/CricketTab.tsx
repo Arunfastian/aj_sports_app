@@ -77,8 +77,14 @@ const CricketTab = ({ navigation }: any) => {
         // console.log("Yesteday Data: ",yesterdayData.results[0]);
         // console.log("Today Data: ",todayData.results[0]);
         // console.log("Tomorrow Data: ",tomorrowData.results[0]);
-        setResults(yesterdayData.results);
-        setFixtures([...todayData.results, tomorrowData.results]);
+        const todayCompleted = todayData.results.filter(
+          (value: any) => value.status === "Complete"
+        );
+        const todayNotCompleted = todayData.results.filter(
+          (value: any) => value.status !== "Complete"
+        );
+        setResults([...todayCompleted,...yesterdayData.results]);
+        setFixtures([...todayNotCompleted, ...tomorrowData.results]);
         setLoading(false);
       } catch (error) {
         console.error(error);
